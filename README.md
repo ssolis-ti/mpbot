@@ -108,8 +108,8 @@ graph TD
     
 📜 License & Credits
 
-Author: @janhzo
- / Project Zero (@Project0zcl)
+Author: @ssolis.ti
+ 
 Framework: Fetch.ai uAgents
 
 License: MIT
